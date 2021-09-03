@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:500');
+
+
+
+.legend1{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.fichamedica{
+    margin-top: 20px;
+    background-color: white;
+    margin-left: 10%;
+    width: 80%;
+    padding-bottom: 30px;
+    box-shadow: 0 8px 10px 0 rgba(0,0,0,0.5), 0 6px 10px 0 rgba(0,0,0,0.3);
+    border-radius: 5px;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+
+fieldset{
+    margin-top: 10px;
+    width: 90%;
+    margin-left: 40px;
+}
+
+
+label{
+    display: inline-block;
+    width: 20%;
+}
+
+.input{
+    width:60%;
+    border: transparent;
+    border-bottom: solid 1px grey;
+    display: inline-block;
+}
+
+.Antecedentestxt{
+    width: 80%;
+    margin-bottom: 8px;
+    display: inline-block;
+    font-weight: bold;
+}
+.Antecedentes{
+    width:80%;
+}
+
+.alergias{
+    margin-left: 5px;
+    width:51%;
+}
+.signin{
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+    background-color: snow;
+    border: solid 1px black;
+    color: black;
+}
+.masinformacion{
+    width: 100%;
+    padding-bottom: 250px;
+}
+
+
+.txthistoriaclinica{
+    border: solid 1px grey;
+    resize:none;
+    padding: 5% 4%;
+    width: 100%;
+    height: 40%;
+
+}
+
+
+.inputConsulta{
+    width: 100%;
+    border: solid 1px black;
+    background-color: transparent;
+    padding-bottom: 5%;
+}
+
+.tituloHistorial{
+    font-size: 120%;
+}
+.TablaMedico{
+    width: 100%;
+    margin-left: 0%;
+    background-color: white;
+    
+    min-height: 20%; 
+}
+.Tabla{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.TablaTop{
+    font-size: 125%;
+    border: solid 1px black;
+    color: black;
+    background-color: rgb(220,220,220);  
+}
+.TablaOrden{
+    background-color: rgb(190,190,220);
+}
+
+.TablaMedio{
+    text-align: left;
+    border: solid 1px black;
+}
+
+tr, td, th{
+     border: solid 1px black;
+}
+#consulta{
+    max-width: 50%;
+}
+th{
+    min-width: 150px;
+}
+
+#agregar{
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-position: 4px 4px;
+    width: 10%;
+    font-size: 100%;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 1%;
+    border: solid 1px black;
+    color: black;
+}
+
+.busqueda{
+    margin-top: 2%;
+    margin-left: 4%;
+    width: 13%;
+    font-size: 15px;
+    padding-left: 1%;
+    border: solid 1px black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    
+
+}
+
+
+
+#bGuardar{
+    margin-left: 1%;
+    color: black;
+    text-align: center;
+    background-color: lightgray;
+    box-shadow: -2px 2px 5px rgba(0,0,0,0.7), 2px 2px 5px rgba(0,0,0,0.7);
+    border: transparent; 
+    padding: 5px 10px;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight:500;
+    text-transform:uppercase;
+    letter-spacing:1px;
+}
+
+#divNombre{
+
+    font-family: 'Oswald', sans-serif;
+    margin-left: 2%;
+    margin-top: 1%;
+    font-size: 30px;
+    text-decoration: underline;
+    border: transparent;
+    outline:none
+
+}
+
+#boton{
+    margin-left: 1%;
+    color: black;
+    text-align: center;
+    background-color: lightgray;
+    box-shadow: -2px 2px 5px rgba(0,0,0,0.7), 2px 2px 5px rgba(0,0,0,0.7);
+    border: transparent; 
+    padding: 5px 10px;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight:500;
+    text-transform:uppercase;
+    letter-spacing:1px;
+}
+
+label{
+    font-weight: bold;
+}

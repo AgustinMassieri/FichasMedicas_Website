@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:500');
+
+
+.registrarse{	
+
+	margin-left: 34%;
+	width: 36%;
+	margin-top: 3%;
+	
+}
+
+.fieldsetregistrarse{
+
+	padding-top: 10%;
+	padding-bottom: 5%;
+	border-radius: 0%;
+	border: solid 2px;
+	border-color: grey;
+	box-shadow: 0 6px 7px 0 rgba(0, 0, 20, 0.8), 0 8px 25px 0 rgba(0, 0, 20, 0.69);
+	background-color: white;
+	border-radius: 10px;
+
+}
+
+
+body{
+
+	background:url(https://pp.userapi.com/c841122/v841122831/327e/nHt-92F6yc4.jpg) no-repeat top center #efeff1;
+	background-repeat: no-repeat;
+ 	background-size:cover;
+
+}
+
+.signin {
+
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	letter-spacing:1px;
+	margin-left: 24%;
+	display: inline-block;
+	cursor: pointer;
+	text-align: center;
+	outline: none;
+	padding: 15px 35px;
+	font-size: 100%;
+	width: 50%;
+	background-color: lightgray;
+	box-shadow: -2px 2px 5px rgba(100,100,100,0.7), 2px 2px 5px rgba(100,100,100,0.7);
+	border: transparent;
+}
+
+.signin:hover{
+
+	background-color: darkgray;
+}
+
+#img1{
+
+	width: 27%;
+	margin-left: 35%;
+}
+
+input{
+
+	width:48%;
+    display: inline-block;
+    border: transparent;
+    border-bottom: solid 2px grey;
+	background-color: transparent;
+
+}
+
+.text{
+
+	border: transparent;
+	border-bottom: 2px solid #878787;
+	background-color: transparent;
+
+}
+
+label{
+
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	margin-left: 10px;
+    display: inline-block;
+    width: 35%;
+    font-size: 14px;
+
+}
+
+.checkbox{
+
+	margin-left: 0px;
+	width: 5%;
+
+}
+
+.etiqsexoregistrarse{
+
+	width: 100%;
+	border-radius: 50%;
+
+}
+
+#errores{
+	
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	display: block;
+	color: red;
+	text-align: center;
+	font-size: 14px;
+
+}
+
+#error{
+	
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	color: red;
+	text-align: center;
+	margin-bottom: 0%;
+	font-size: 14px;
+
+}
+
+#buttonMenu{
+	size: 20px;
+	background-color: transparent; /* Green */
+	border: none;
+	color: darkblue;
+	padding: 0px 0px;
+	text-align: center;
+	text-decoration: none;
+	margin-top: 1%;
+	display: inline-block;
+	font-size: 16px;
+   
+}
+
+
+::placeholder{
+
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+
+}
+
+select{
+
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	border-radius: .3em;
+
+}
+
+.check{
+
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	font-size: 14px;
+}

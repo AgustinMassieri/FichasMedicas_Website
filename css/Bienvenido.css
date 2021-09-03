@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:500');
+
+
+body{
+
+	
+	background:url(https://pp.userapi.com/c841122/v841122831/327e/nHt-92F6yc4.jpg) no-repeat top center #efeff1;
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+
+
+button{
+
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	letter-spacing:1px;
+
+
+}
+
+.tituloprincipal{
+
+	font-size: 400%;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	letter-spacing:1px;
+
+}
+
+.menu{
+
+	box-shadow: -5px 5px 5px rgba(100,100,100,0.7), 5px 5px 5px rgba(100,100,100,0.7);
+	border: solid 2px rgba(75,75,105); 
+	position: absolute;
+	left:35%;
+	top:27%;
+	width: 30%;
+	background-color: white;
+	height: 54%;
+	border-radius: 10px;
+}
+
+
+#iniciarSescion{
+
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	letter-spacing:1px;
+	font-style: bold;
+	font-size: 155%;
+	text-align: center;
+	width: 100%;
+	color: rgba(75,75,75);
+
+
+}
+
+#registrarse{
+
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	letter-spacing:1px;
+	font-style: bold;
+	font-size: 155%;
+	text-align: center;
+	padding-top: 15px;
+	border-top: solid 2px rgba(75,75,105);
+	margin-top: 10%;
+	width: 100%;
+	color: rgba(75,75,75);
+
+
+}
+
+.button{
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	letter-spacing:1px;
+	display: inline-block;
+	padding: 10px ;
+	font-size: 100%;
+	width: 30%;
+	background-color: rgba(240, 250, 255);
+	box-shadow: -2px 2px 5px rgba(100,100,100,0.7), 2px 2px 5px rgba(100,100,100,0.7);
+	border: transparent;
+	cursor: pointer;
+}
+
+#medico{
+
+	margin-top: 8%;
+	margin-left: 15%;
+	border-radius: 10px;
+
+}
+
+#paciente{
+
+	margin-left: 10%;
+	border-radius: 10px;
+
+}
+
+#medico:hover{
+
+	background-color: #78B7CF;
+
+}
+
+#paciente:hover{
+
+	background-color: #78B7CF;
+
+}

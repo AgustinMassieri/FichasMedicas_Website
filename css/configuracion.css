@@ -1,0 +1,99 @@
+body{
+    background-image: url("https://diariosanrafael.com.ar/wp-content/uploads/2018/04/medicos-1_1440x660.jpg");
+}
+
+
+.configuracion2{
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: white;
+    box-shadow: 0 8px 10px 0 rgba(0,0,0,0.5), 0 6px 10px 0 rgba(0,0,0,0.3);
+    border-radius: 5px;
+    border: transparent;
+    padding-bottom: 1%;
+}
+
+.configuracion1{
+    width: 90%;
+    display: inline-block;
+    margin-top: 1.5%;
+    margin-left: 4%;
+   
+}
+#configuracion2Pac{
+    margin-top: 7%;
+}
+.notaspie{
+    margin-top: 2%;
+    margin-left: 0%;
+    width: 100%;
+    text-align: center;
+}
+.notaspiePac{
+    margin-top:3%;
+    margin-left: 0%;
+    width: 100%;
+    text-align: center;
+}
+#topbarramenuCon{
+    box-shadow: -50px 2px 5px rgba(100,100,100,0.0), 50px 2px 5px rgba(100,100,100,0.0);
+}
+
+.conf{
+    font-weight: bold;
+}
+
+#borrar{
+    margin-left: 4%;
+}
+
+button{
+    color: black;
+    text-align: center;
+    background-color: lightgray;
+    box-shadow: -2px 2px 5px rgba(0,0,0,0.7), 2px 2px 5px rgba(0,0,0,0.7);
+    border: transparent; 
+    padding: 5px 10px;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight:500;
+    text-transform:uppercase;
+    letter-spacing:1px
+}
+
+#imgBot{
+
+    color: black;
+    text-align: center;
+    background-color: lightgray;
+    box-shadow: -2px 2px 5px rgba(0,0,0,0.7), 2px 2px 5px rgba(0,0,0,0.7);
+    border: transparent; 
+    padding: 5px 10px;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight:500;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    margin-left: 2%;
+}
+
+#error{
+
+    margin-left: 3%;
+    color: red;
+    font-family: 'Oswald', sans-serif;
+    font-weight:500;
+    text-transform:uppercase;
+    letter-spacing:1px;
+}
+
+#correc{
+    margin-left: 3%;
+    display: inline-block;
+    color: green;
+    font-family: 'Oswald', sans-serif;
+    font-weight:500;
+    text-transform:uppercase;
+    letter-spacing:1px;
+}

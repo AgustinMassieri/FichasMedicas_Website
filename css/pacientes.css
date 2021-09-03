@@ -1,0 +1,58 @@
+
+.TablaMedico{
+    width: 80%;
+    margin-left: 10%;
+    background-color: white;
+    border: solid 1px black;
+    min-height: 20%; 
+    box-shadow: -2px 2px 5px rgba(100,100,100,0.7), 2px 2px 5px rgba(100,100,100,0.7); 
+}
+.Tabla{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.TablaTop{
+    border: solid 1px black;
+    color: snow;
+    background-color: rgba(20,40,60);  
+}
+
+.TablaMedio{
+    text-align: center;
+    border: solid 1px black;
+}
+
+tr, td, th{
+     border: solid 1px black;
+}
+
+.abrir{
+    border: transparent;
+    background-color: rgba(200, 225, 225);
+    padding: 7% 50%;
+}
+
+.fotoabrir{
+    background-image: url("https://image.flaticon.com/icons/svg/148/148955.svg");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: 50% 50%;
+}
+.abrir:hover{
+    background-color: #78B7CF;
+    cursor: pointer;
+}
+
+.botonmas{
+    border: black;
+    background-color: rgba(200, 225, 225);
+    font-size: 18px;
+
+}
+.botonmas:hover{
+    background-color: #78B7CF;
+    cursor: pointer;
+}
+
+

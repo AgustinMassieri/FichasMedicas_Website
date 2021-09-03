@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:500');
+
+
+.iniciosesion{
+
+	width: 29%;
+	margin-top: 80px;
+	margin-left: 37%;
+}
+
+.hola{
+
+	text-align: center;
+}
+
+#img1{
+
+	width: 35%;
+
+}
+
+.Iniciosesion{
+
+	padding-top: 10%;
+	padding-bottom: 3%;
+	border-radius: 5px;
+	border: solid 2px;
+	border-color: grey;
+	background-color: white;
+	box-shadow: 0 6px 7px 0 rgba(0, 0, 20, 0.8), 0 8px 25px 0 rgba(0, 0, 20, 0.69);
+	display: inline-block;
+
+}
+
+body{
+
+	background:url(https://pp.userapi.com/c841122/v841122831/327e/nHt-92F6yc4.jpg) no-repeat top center #efeff1;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.estilo1{
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	letter-spacing:1px;
+	margin-left: 2%;
+	width: 5%;
+}
+
+.usuario{
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-decoration:none;
+    border: none;
+    border-bottom: 2px solid grey;
+    background: none;
+    outline: none;
+   	width: 61%;
+}
+
+	
+.boton1 {
+
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	letter-spacing:1px;
+  	margin-left: 29%;
+  	cursor: pointer;	
+  	outline: none;
+  	text-align: center;
+	display: inline-block;
+	padding: 10px 35px;
+	font-size: 100%;
+	width: 40%;
+	background-color: lightgray;
+	box-shadow: -2px 2px 5px rgba(100,100,100,0.7), 2px 2px 5px rgba(100,100,100,0.7);
+	border: transparent;
+
+}
+
+.boton1:hover {
+
+	background-color: darkgray;
+
+}
+
+
+#erroresRC{
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	display: none;
+	color: red;
+	text-align: center;
+	margin-bottom: 0%;
+	font-size: 14px;
+
+}
+
+#error{
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	color: red;
+	text-align: center;
+	margin-bottom: 0%;
+	font-size: 14px;
+
+
+}
+
+#erroresPS{
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	display: none;
+	color: red;
+	text-align: center;
+	margin-bottom: 0%;
+	font-size: 14px;
+
+}
+
+#clave{
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-decoration:none;
+	align-self: center;
+	width: 51%;
+	font-size: 15px;
+}
+
+#lClave{
+	font-size: 15px;
+}
+
+.Pregunta{
+
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	display: inline-block;
+	font-size: 15px;
+    border-bottom: 2px solid grey;
+    background: none;
+    outline: none;
+   	width: 60%;
+   	text-align: center;
+
+}
+
+#erroresCC{
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+	display: none;
+	color: red;
+	text-align: center;
+	margin-bottom: 0%;
+	font-size: 14px;
+
+}
+
+
+::placeholder{
+
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-transform:uppercase;
+	text-decoration:none;
+
+}
+
+#respuestaPS{
+	font-family: 'Oswald', sans-serif;
+	font-weight:500;
+	text-decoration:none;
+	font-size: 15px;
+
+}

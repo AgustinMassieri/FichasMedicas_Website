@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css?family=Oswald:500');
+
+button{
+
+	color: black;
+    text-align: center;
+    background-color: lightgray;
+    box-shadow: -2px 2px 5px rgba(0,0,0,0.7), 2px 2px 5px rgba(0,0,0,0.7);
+    border: transparent; 
+    padding: 5px 10px;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight:500;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    margin-left: 5px;
+
+}
+
+input{
+
+	display: inline-block;
+	width: 45%;
+	margin-left: 2%;
+    border: none;
+    border-bottom: 2px solid grey;
+
+}
+
+label{
+
+	width: 5%;
+
+}
+
+#guardarCambios:hover{
+
+	cursor: pointer;
+	background-color: rgba(200, 205, 255) 
+
+}
+
+
+#erroresP{
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight:500;
+    text-transform:uppercase;
+    display: none;
+    color: red;
+    text-align: center;
+    margin-bottom: 0%;
+    font-size: 15px;
+
+}
+
+h3{
+
+font-family: 'Oswald', sans-serif;
+font-weight:500;
+text-transform:uppercase;
+letter-spacing:1px;
+
+}
+
+#msjEr{
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight:500;
+    text-transform:uppercase;
+    color: red;
+    font-size: 15px;
+
+}
+
+#msjCo{
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight:500;
+    text-transform:uppercase;
+    color: green;
+
+}

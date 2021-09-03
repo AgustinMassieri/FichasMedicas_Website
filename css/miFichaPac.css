@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:500');
+
+
+#divNombre{
+
+	font-family: 'Oswald', sans-serif;
+	margin-left: 3.5%;
+	font-size: 30px;
+	text-decoration: underline;
+
+}
+
+.fichamedica{
+
+    margin-top: 20px;
+    background-color: white;
+    margin-left: 10%;
+    width: 80%;
+    padding-bottom: 30px;
+    box-shadow: 0 8px 10px 0 rgba(0,0,0,0.5), 0 6px 10px 0 rgba(0,0,0,0.3);
+    border-radius: 10px;
+
+}
+
+.notaspie{
+
+    text-align: center;
+    border-top: solid 2px grey ;
+    padding-top: 2.5%;
+    padding-bottom: 0.5%;
+
+}
+
+fieldset{
+
+    margin-top: 2%;
+    width: 90%;
+    margin-left: 3%;
+
+}
+
+label{
+
+    display: inline-block;
+    width: 16%;
+
+}
+
+.input{
+
+    width:36%;
+    border: transparent;
+    border-bottom: solid 1px grey;
+    display: inline-block;
+
+}
+
+.Antecedentestxt{
+    width: 80%;
+    margin-bottom: 8px;
+    display: inline-block;
+    font-weight: bold;
+
+}
+
+.legend1{
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+#consulta{
+
+    max-width: 50%;
+
+}
+
+tr, td, th{
+
+    border: solid 1px black;
+
+}
+
+
+th{
+
+    min-width: 150px;
+    
+}
+
+
